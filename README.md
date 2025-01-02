@@ -1,5 +1,5 @@
 ## Portfolio
-- **Personal Website**: [escantor.com](https://escantor.com) 
+[escantor.com](https://escantor.com) 
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/ethan-cantor99/)
